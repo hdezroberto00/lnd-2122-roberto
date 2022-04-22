@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue Mar 22 12:31:18 WET 2022 -->
+
+<aeropuerto xsi:noNamespaceSchemaLocation="airport_roberto.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<nombre>Tenerife Notre-Los Rodeos</nombre>
+	<fecha>2017-05-04</fecha>
+	<vuelo codigo="UX5103" estado="E">
+		<origen>Tenerife</origen>
+		<destino>Sevilla</destino>
+		<hora-salida>16:00:00</hora-salida>
+		<hora-llegada>19:15:00</hora-llegada>
+	</vuelo>
+	
+	<vuelo codigo="IB2015" estado="R">
+		<origen>Tenerife Norte</origen>
+		<destino>Madrid</destino>
+		<hora-salida>18:00:00</hora-salida>
+		<hora-llegada>21:15:00</hora-llegada>
+	</vuelo>
+</aeropuerto>
