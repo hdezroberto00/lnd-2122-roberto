@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue Mar 29 11:28:49 WEST 2022 -->
+
+<clinicaveterinariaroberto xsi:noNamespaceSchemaLocation="/home/malu/Escritorio/veterinaria/veterinaria.xsd" codigo="vet1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cliente>
+		<nombre>Roberto</nombre>
+		<animales>
+			<gato sexo="M">
+				<nombre>Cocos</nombre>
+				<edad>7</edad>
+				<raza>Persa</raza>
+			</gato>
+		</animales>
+	</cliente>
+	<cliente>
+		<nombre>Diego</nombre>
+		<apellido>Rolando</apellido>
+		<animales>
+			<reptil sexo="H">
+				<nombre>Lagarto</nombre>
+				<edad>3</edad>
+				<raza>Iguana</raza>
+			</reptil>
+		</animales>
+	</cliente>
+</clinicaveterinariaroberto>
